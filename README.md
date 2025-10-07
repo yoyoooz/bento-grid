@@ -2,7 +2,7 @@
 
 A responsive bento grid layout built with HTML and CSS using modern CSS features like @layer, custom properties, and grid-template-areas.
 
-🌐 Live Demo: [View here](https://yourusername.github.io/bento-grid-challenge/)
+🌐 Live Demo: [View here](https://yoyoooz.github.io/bento-grid/)
 
 ## Built With
 - HTML5
