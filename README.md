@@ -10,4 +10,4 @@ A responsive bento grid layout built with HTML and CSS using modern CSS features
 
 ## Credits
 - Design by Frontend Mentor
-- Coded by [Youmna](https://yourportfolio.com)
+- Coded by [Youmna](https://github.com/yoyoooz)
